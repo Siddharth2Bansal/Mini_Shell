@@ -3,8 +3,6 @@
 ## Table of Contents
 - Introduction
 - Features
-- Built With
-- Database
 - Scope for improvement
 
 ## Introduction
